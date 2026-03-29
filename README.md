@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+👋,+I'm+Farhan+Ali;Aspiring+DevOps+Engineer+⚙️;" />
-</h1>>
-
+<p align="center"><a href="https://"><img width="80%" alt="Hello, I am Farhan. I am learning Devops!" src="./assets/gh-readme-header.png" /></a></p>
 <h3 align="center">
   Aspiring DevOps Engineer ⚙️ | Computer Science Student 💻
 </h3>
@@ -48,15 +45,6 @@ Currently, I am learning tools and practices used in real-world development and 
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanali-io&show_icons=true&theme=midnight-purple" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-io&layout=compact&theme=midnight-purple" height="180px"/>
-</div>
-
-<br>
-
-<h2 align="center">📫 Contact Me</h2>
-
 <div align="center"> 
   <a href="mailto:farhangamer3264@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -69,5 +57,4 @@ Currently, I am learning tools and practices used in real-world development and 
   <a href="https://www.linkedin.com/in/farhan-ali-743175374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  
 </div>
