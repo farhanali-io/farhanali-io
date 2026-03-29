@@ -1,6 +1,46 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+👋,+I'm+Farhan+Ali;Aspiring+DevOps+Engineer+⚙️;" />
-</h1>>
+  <span class="glow">Hello! I'm Farhan</span>
+</h1>
+
+<h3 align="center">
+  <span class="subtext">I am learning DevOps :)</span>
+</h3>
+
+<style>
+.glow {
+  font-size: 40px;
+  color: #ff4d6d;
+  font-family: 'Segoe UI', sans-serif;
+  animation: blinkGlow 1.5s infinite alternate;
+}
+
+.subtext {
+  font-size: 20px;
+  color: #8a2be2;
+  font-family: 'Segoe UI', sans-serif;
+  animation: fade 2s infinite alternate;
+}
+
+@keyframes blinkGlow {
+  from {
+    opacity: 1;
+    text-shadow: 0 0 5px #ff4d6d, 0 0 10px #ff4d6d;
+  }
+  to {
+    opacity: 0.6;
+    text-shadow: 0 0 20px #ff4d6d, 0 0 30px #ff4d6d;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.5;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style>
 <h3 align="center">
   Aspiring DevOps Engineer ⚙️ | Computer Science Student 💻
 </h3>
