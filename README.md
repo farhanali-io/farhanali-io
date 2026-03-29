@@ -49,8 +49,8 @@ Currently, I am learning tools and practices used in real-world development and 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanali-io&show_icons=true&theme=midnight-purple" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-io&layout=compact&theme=midnight-purple" height="180px"/>
 </div>
 
 <br>
