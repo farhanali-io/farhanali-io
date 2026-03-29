@@ -1,4 +1,6 @@
-<p align="center"><a href="https://"><img width="80%" alt="Hello, I am Farhan. I am learning Devops!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=7e15f7&height=200&section=header&text=Farhan%20Ali&fontSize=40&fontColor=ffffff"/>
+</p>>
 <h3 align="center">
   Aspiring DevOps Engineer ⚙️ | Computer Science Student 💻
 </h3>
