@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=7e15f7&height=200&section=header&text=Farhan%20Ali&fontSize=40&fontColor=ffffff"/>
-</p>>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+👋,+I'm+Farhan+Ali;Aspiring+DevOps+Engineer+⚙️;" />
+</h1>>
 <h3 align="center">
   Aspiring DevOps Engineer ⚙️ | Computer Science Student 💻
 </h3>
